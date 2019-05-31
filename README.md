@@ -2,7 +2,7 @@
 
 ## Instrucciones para que cada uno suba su código usando git
 
-Antes de nada necesario tener instaldado git y tener una cuenta en github,  tarde o temprano os la tendreis que hacer así que no me seais vagos coño
+Antes de nada necesario tener instalado git y tener una cuenta en github,  tarde o temprano os la tendreis que hacer así que no me seais vagos coño
 
 primero tienes que clonar este repositorio en tu pc con el siguiente comando:
 
