@@ -18,9 +18,10 @@ Tendréis que hacer eso cada vez que editáis la carpeta fuente
 
     git push origin master 
     
-y cada vez que se añade nuevo código tendréis que v
 ## Importante no editar nada en las carpetas ajenas
 
 ## Para mantener el repositorio local actualizado usad
     git pull origin master
+
+### En realiad cuando envíe este enlace todos vais a pasar de mi puta cara pero bueno la intención estaba
     
