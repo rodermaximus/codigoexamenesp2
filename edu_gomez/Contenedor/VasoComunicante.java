@@ -27,4 +27,10 @@ public class VasoComunicante{
 		}
 		return res;
 	}
+	public void estado(){
+		for(int i=0 ;i<vaso.length; i++){
+			vaso[i].estado();
+			System.out.println();
+		}
+	}
 }
