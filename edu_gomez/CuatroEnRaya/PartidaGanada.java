@@ -4,6 +4,6 @@ public class PartidaGanada extends Exception{
 	}
 	public PartidaGanada(Ficha f){
 		super();
-		//color de la ficha
+		// color de la ficha
 	}
 }
