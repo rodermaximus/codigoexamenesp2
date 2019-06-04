@@ -15,7 +15,7 @@ Después crear una carpeta con vuestro nombre y apellido de la manera que querá
 Tenéis que ir a vuestra carpeta(`cd nombre_apellido`) y añadir o generar el código de los ejercicios, es preferible crear una carpeta por ejercicio.
 Una vez hecho eso ejecutar los siguientes comandos de git para cargar los cambios:
 * para cargar los archivos: `git add .`(se pueden añadir de uno en uno, pero con el punto se añaden todos o también podeis añadir vuesta la carpeta con `git add nombre_apellido/`)
-* para cargar los cambios `git commit`(se abrirá un editor de texto para darle un nombre a los cambios)
+* para cargar los cambios `git commit`(se abrirá un editor de texto para darle un nombre a los cambios) o sino `git commit -m "Mensaje del commit"` para evitarse pasar por el editor de texto
 Tendréis que hacer eso cada vez que editáis la carpeta fuente
 ## Después de cada commit ejecutar
 
@@ -25,6 +25,8 @@ Tendréis que hacer eso cada vez que editáis la carpeta fuente
 
 ## Para mantener el repositorio local actualizado usad
     git pull origin master
+
+### Tampoco es está la forma más eficiete de compartir código ya que tengo que estar añadiendo a cada colaborador pero bueno YA IREMOS MEJORANDO O QUE
 
 ### En realiad cuando envíe este enlace todos vais a pasar de mi puta cara pero bueno la intención estaba
 
