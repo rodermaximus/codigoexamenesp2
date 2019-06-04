@@ -4,7 +4,7 @@
 
 Antes de nada necesario tener instalado git y tener una cuenta en github,  tarde o temprano os la tendreis que hacer así que no me seais vagos coño. también necesario que ser **colaborador del repositorio**, me tendreis que decir vuestro user de github
 
-Después, ya en terminal o cliente de git, que clonar este repositorio en tu pc con el siguiente comando:
+Después, ya en terminal o cliente de git, clonar este repositorio en tu pc con el siguiente comando:
 
     git clone https://github.com/edugomez102/codigoexamenesp2
 Después crear una carpeta con vuestro nombre y apellido de la manera que queráis **importante que cada uno cree su carpeta**, con la terminal el comando sería:
