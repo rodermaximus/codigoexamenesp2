@@ -1,3 +1,4 @@
+//incompleto
 public class PartidaGanada extends Exception{
 	public PartidaGanada(){
 		super();

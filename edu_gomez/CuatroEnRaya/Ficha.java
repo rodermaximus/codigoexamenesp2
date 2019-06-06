@@ -1,3 +1,4 @@
+//incompleto
 public class Ficha{
     private String color;
     public Ficha(){

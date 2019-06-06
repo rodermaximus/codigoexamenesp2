@@ -1,3 +1,4 @@
+//incompleto
 import java.io.*;
 
 public class Diferencias{
