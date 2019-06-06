@@ -1,3 +1,5 @@
+//comentario innecesario
+
 public class CuatroEnRaya{
 
     private Ficha[][] tablero;
