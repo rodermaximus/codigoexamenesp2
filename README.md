@@ -1,4 +1,13 @@
-# Compartición de código amigos
+# Compartición de código 
+
+Para colaborar:
+* Pedidme ser colaborador del repositorio para poder añadir vuestros archivos(necesaria cuenta de github)
+* Arrastrar la carpeta que contiene los archivos a esta ventana.
+* Pulsar el botón verde que aparecerá abajo que dice _"commit changes"_
+
+
+----
+### Lo que está más abajo es usando la terminal pero como nadie la usa pues nada 
 
 ## Instrucciones para que cada uno suba su código usando git
 
