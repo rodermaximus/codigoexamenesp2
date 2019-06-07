@@ -11,11 +11,12 @@ public class Western extends Envio{
 		mensaje = mens;
 	}
 
-	public double calculaImporte(){
+	public Override double calculaImporte(){
 		return cantidad*0.03;
 	}
 
-	public void toString(){
+	public void toStrang(){
+		super.toStrang();
 		System.out.println("MENS: " + mensaje + "\n");
 		System.out.println("CANT " + cantidad + "\n");
 	}

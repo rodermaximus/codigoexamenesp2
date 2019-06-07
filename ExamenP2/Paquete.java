@@ -24,10 +24,11 @@ public class Paquete extends Envio{
 		largo = 3;
 	}
 
-	public double calculaImporte(){
+	public Override double calculaImporte(){
 		return peso/(alto+ancho+largo);
 	}
-	public void toString(){
+	public void toStrang(){
+		super.toStrang();
 		System.out.println("ALTO: " + alto + "\n");
 		System.out.println("ANCHO: " + ancho + "\n");
 		System.out.println("LARGO: " + largo + "\n");
