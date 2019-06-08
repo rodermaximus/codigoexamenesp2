@@ -14,7 +14,7 @@ public class Diferencias{
 				br2 = new BufferedReader(fr2);
 				String aux1 = null;
 				String aux2 = null;
-				while(true &&(aux1!=null && aux2!=null)){
+				do{
 					aux1 = br1.readLine();
 					aux2 = br2.readLine();
 					if(args[2].equals("-i")){
@@ -32,7 +32,7 @@ public class Diferencias{
 							System.out.println("> "+aux2);
 						}
 					}
-				}
+				}while(true &&(aux1!=null && aux2!=null))
 
 			}catch(IOException e){
 				e.printStackMessage();
